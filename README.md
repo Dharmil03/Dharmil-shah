@@ -4,9 +4,9 @@
 <img align="right"  alt="Coding" width="560" src="https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dharmil shah&label=Profile%20views&color=0e75b6&style=flat" alt="Dharmil shah" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dharmil-shah&label=Profile%20views&color=0e75b6&style=flat" alt="Dharmil shah" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dharmil449" target="blank"><img src="https://img.shields.io/twitter/follow/vivekpanchaal?logo=twitter&style=for-the-badge" alt="vivekpanchaal" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dharmil449" target="blank"><img src="https://img.shields.io/twitter/follow/dharmil449?logo=twitter&style=for-the-badge" alt="vivekpanchaal" /></a> </p>
 
 - 🔭 I’m currently learning **Typescript & Nextjs**
 
@@ -41,9 +41,9 @@
 ## 📈 GitHub Stats
 <div style="display: flex;">
     <div style="margin-right: 10px;">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmil-shah&layout=compact&theme=highcontrast" alt="Languages" style="height: 197px;"><br> <br>
-         <img src="https://github-readme-stats.vercel.app/api?username=Dharmil-shah&show_icons=true&theme=highcontrast" alt="GitHub Stats" style="height: 197px;"> <br> <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmil-shah&theme=highcontrast" alt="GitHub Streak Stats" style="height: 190px;">
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmil03&layout=compact&theme=highcontrast" alt="Languages" style="height: 197px;"><br> <br>
+         <img src="https://github-readme-stats.vercel.app/api?username=dharmil03&show_icons=true&theme=highcontrast" alt="GitHub Stats" style="height: 197px;"> <br> <br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmil03&theme=highcontrast" alt="GitHub Streak Stats" style="height: 190px;">
     </div>
 </div>
 <br>
