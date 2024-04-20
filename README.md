@@ -39,11 +39,13 @@
 <br>
 
 ## 📈 GitHub Stats
-<div style="display: flex;">
-    <div style="margin-right: 10px;">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmil03&layout=compact&theme=highcontrast" alt="Languages" style="height: 197px;"><br> <br>
-         <img src="https://github-readme-stats.vercel.app/api?username=dharmil03&show_icons=true&theme=highcontrast" alt="GitHub Stats" style="height: 197px;"> <br> <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmil03&theme=highcontrast" alt="GitHub Streak Stats" style="height: 190px;">
-    </div>
+<div align="center">
+<a href="https://github.com/Dharmil03">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dharmil03&theme=dracula" />
+</a>
+<br /><br />
+<a href="https://github.com/Dharmil03">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmil03&theme=dracula" />
+</a>
 </div>
 <br>
