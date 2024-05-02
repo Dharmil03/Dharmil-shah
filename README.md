@@ -40,5 +40,5 @@
 
 ## 📈 GitHub Stats
 (https://github-readme-stats.vercel.app/api?username=Dharmil03&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-(https://github-readme-streak-stats.herokuapp.com/?user=Dharmil03&theme=dark)](https://git.io/streak-stats
+<a>(https://github-readme-streak-stats.herokuapp.com/?user=Dharmil03&theme=dark)](https://git.io/streak-stats<a/>
 <br>
